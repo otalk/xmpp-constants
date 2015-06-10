@@ -1,3 +1,7 @@
 module.exports = {
-    namespaces: require('./namespaces')
+    Namespace: require('./lib/namespaces'),
+    MUC: require('./lib/muc'),
+    PubSub: require('./lib/pubsub'),
+    Jingle: require('./lib/jingle'),
+    Presence: require('./lib/presence')
 };

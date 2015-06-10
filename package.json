@@ -13,7 +13,7 @@
     "xmpp"
   ],
   "license": "MIT",
-  "main": "index.js",
+  "main": "./index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/otalk/xmpp-constants.git"
