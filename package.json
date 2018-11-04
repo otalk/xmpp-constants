@@ -1,7 +1,7 @@
 {
   "name": "xmpp-constants",
   "description": "Protocol constants for XMPP",
-  "version": "2.4.0",
+  "version": "2.5.0",
   "author": "Lance Stout <lance@andyet.net>",
   "bugs": "https://github.com/otalk/xmpp-constants/issues",
   "devDependencies": {
